@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'jian.css'
 copyright = '2022, The jian.css team'
 author = 'The jian.css team'
 
